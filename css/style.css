@@ -18,4 +18,31 @@ header {
     font-size: 50px;
     padding-top: 30px;
     padding-left: 8px;
+    font-style: normal;
+}
+
+#author-address {
+    padding-top: 6px;
+    padding-left: 8px;
+    font-style: normal;
+    font-size: 25px;
+}
+
+#article-date {
+    font-style: normal;
+    font-size: 15px;
+    padding-left: 8px;
+    padding-top: 6px;
+}
+
+.main-tim {
+    padding-top: 30px;
+    padding-left: 8px;
+    padding-bottom: 6px;
+}
+
+.tim-caption {
+    padding-left: 8px;
+    font-style: normal;
+    font-size: 15px;
 }
